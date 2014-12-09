@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ruby', '2.1.5'
+gem 'ruby', '2.1.5p273'
 gem 'rails', '4.1.8'
 
 group :production do
